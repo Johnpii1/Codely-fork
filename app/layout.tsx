@@ -8,7 +8,7 @@ const _geist = Geist({ subsets: ["latin"] });
 const _geistMono = Geist_Mono({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: 'Codely - Code Snippets Platform',
+  title: 'Codely',
   description: 'Save, organize, and share your code snippets with Codely. A modern platform for developers.',
   generator: 'v0.app',
   icons: {
